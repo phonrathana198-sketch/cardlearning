@@ -1,2 +1,1 @@
-# cardlearning
-Termux api app
+HsaHker.APP
